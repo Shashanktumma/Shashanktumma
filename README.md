@@ -9,28 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=shashanktumma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
 
-### 🛠️ Tech Stack & Tools
-
-- 💻 Languages: **Java**, **Python**, **C**, **SQL**, **JavaScript**, **HTML/CSS**
-- 🌐 Web Dev: **React**, **Node.js**, **Express**, **Bootstrap**, **Tailwind CSS**
-- 🗃️ Databases: **MySQL**, **MongoDB**
-- 🛡️ Security: **Burp Suite**, **HTTrack**, **Splunk**
-- 🔐 Interests: **Cryptography**, **Web Security**, **Image Encryption**
-- 🧠 Also learning: **Deep Learning**, **Autoencoders**, **RNNs**, **GANs**
-
----
-
-### 💼 Projects
-
-🚀 **Image Encryptor/Decryptor** – Java-based tool that uses advanced encryption for secure image transmission  
-🌐 **Student Migration Assistance Website** – Built with HTML, CSS, JS to assist students relocating for education  
-💡 **Hotel Booking App** – Java-based app offering curated hotel info based on geolocation  
-☔ **Automatic Rain Shed System** – Real-world IOT integration using sensors  
-🎓 **S-Hub** – A knowledge-sharing platform made for peers  
-
----
 
 ### 📈 GitHub Stats
 
@@ -46,8 +25,7 @@
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shashanktumma)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(if available)*
-- 📧 Email: yourname@example.com *(replace with your actual email)*
+- 📧 Email: shashanktumma2004@gmail.com
 
 ---
 
